@@ -1,10 +1,3 @@
-// --== CS400 Spring 2023 File Header Information ==--
-// Name: Zaid Ahmed
-// Email: zahmed8@wisc.edu
-// Team: DA
-// TA: Callie Kim
-// Lecturer: Florian Heimerl
-// Notes to Grader: <optional extra notes>
 import org.junit.Assert.*;
 import org.junit.Before;
 import static org.junit.Assert.assertEquals;
